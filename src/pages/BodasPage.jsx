@@ -7,6 +7,7 @@ const BodasPage = () => {
     const decoracionCARDS = 'src/assets/Erick WEB/decoracion textos.png';
     const img5 = 'src/assets/Erick WEB/FOTOS MURANO/gallery9.jpg';
 
+    
     return (
         <div>
             <div className='relative h-screen w-auto overflow-y-scroll font-serif'>
